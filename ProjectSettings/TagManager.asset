@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Star
   layers:
   - Default
   - TransparentFX
@@ -43,6 +44,12 @@ TagManager:
     locked: 0
   - name: Robot
     uniqueID: 1284627429
+    locked: 0
+  - name: Star
+    uniqueID: 3071795109
+    locked: 0
+  - name: Canvas
+    uniqueID: 899313195
     locked: 0
   m_RenderingLayers:
   - Default

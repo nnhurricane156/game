@@ -3,7 +3,7 @@
 public class RoomGenerator : MonoBehaviour
 {
     public Vector2 roomSize = new Vector2(16, 9);
-    public float wallThickness = 0.2f;
+    public float wallThickness = 0.1f;
 
     void Start()
     {
